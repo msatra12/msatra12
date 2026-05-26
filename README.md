@@ -1,14 +1,16 @@
 # Mohamed Satra
 
-Computer Science Graduate | IT Specialist | Cloud & Automation-Focused Engineer  
+IT Specialist & System Administration | Bachelors of Computer Science (Honours) 
 
 ---
 
 ## 🚀 About Me
 
-I am a Computer Science graduate with hands-on experience in IT support and systems administration. My background combines technical troubleshooting, backend development, and cloud infrastructure automation.
+I'm an IT Specialist with 4+ years of hands-on experience managing enterprise infrastructure across a multi-campus university environment — 1,500+ users, 250+ endpoints, and everything in between.
 
-I am currently focused on building production-ready projects that demonstrate real-world skills in cloud computing, DevOps practices, backend systems, and enterprise automation.
+My work sits at the intersection of systems administration and cloud engineering: automating device lifecycle workflows with PowerShell and python, managing Intune/Autopilot deployments at scale, enforcing endpoint security compliance, and building production-grade backend systems. I am currently focused on building production-ready projects that demonstrate real-world skills in cloud computing, backend systems, and enterprise automation.
+
+I hold Microsoft **MD-102** (Endpoint Management) and **SC-900** (Security & Identity) certifications.
 
 ---
 
@@ -17,22 +19,20 @@ I am currently focused on building production-ready projects that demonstrate re
 ### Languages
 - JavaScript
 - PowerShell
-- SQL
+- Python
 
 ### Backend & Development
-- Node.js
-- Express.js
+- Scripting & Automation
 - REST API Design
-- PostgreSQL
-- Authentication (JWT)
+- Databases
 - Role-Based Access Control (RBAC)
 
 ### Cloud & DevOps
-- Microsoft Azure
-- Terraform (Infrastructure as Code)
-- GitHub Actions (CI/CD)
-- Docker
-- Environment Configuration & Secrets Management
+- Microsoft Intune
+- Windows AutoPilot
+- GitHub Actions
+- Microsoft 365
+- Entra ID
 
 ### Systems & IT
 - Active Directory
@@ -40,19 +40,20 @@ I am currently focused on building production-ready projects that demonstrate re
 - Windows Server
 - Networking Fundamentals
 - User Lifecycle Management
+- Bitlocker
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Enterprise User Provisioning Automation
-PowerShell-based automation tool integrating with Microsoft Graph API to automate onboarding and offboarding workflows, including user creation, license assignment, and group management.
+### 🔹 IT Asset Management
+Built a browser-based asset tracking system to address the gap between physical hardware and ITSM records tracking device assignments, lifecycle status, and location across multiple sites. Designed around the same workflows I managed manually: procurement, deployment, and offboarding recovery.
 
 ### 🔹 Full-Stack IT Ticketing System
-Production-ready backend application with authentication, RBAC, audit logging, and Dockerized deployment. Designed to simulate real-world internal IT service management systems.
+Production-ready backend application with authentication, RBAC, audit logging, and Dockerized deployment. Not a tutorial clone — architected around real support tier structures and access requirements.
 
-### 🔹 Azure Infrastructure as Code
-Terraform-based infrastructure deployment project provisioning cloud resources with modular architecture and CI/CD integration.
+### 🔹 Network Scanner Tool
+CLI-based network scanner for host discovery, and anomaly alerting built to complement the DNS/DHCP/VLAN troubleshooting I performed across 3 campus locations. Designed for sysadmins who need fast, scriptable visibility into their environment without spinning up enterprise tooling.
 
 ---
 
@@ -60,8 +61,6 @@ Terraform-based infrastructure deployment project provisioning cloud resources w
 
 I am pursuing opportunities in:
 - Cloud Engineering
-- DevOps Engineering
-- Backend Development
 - IT Automation & Infrastructure Engineering
 
 ---
